@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # COMP 3122 - Python AI/ML class
  - [Course outline draft](Outline.md)
  - Slack signup page - https://join.slack.com/t/georgebrowntech/signup
@@ -36,3 +37,7 @@ This link skips the first video in the playlist because it talks about installat
     * Download OfficeSupplies.csv file here: https://www.superdatascience.com/tableau/
  
   
+=======
+# ML-Class-Excerises
+ML Class Exercise for future preference
+>>>>>>> 3244650cd178bfc412f37e4b41c40d450c8ec4a0
